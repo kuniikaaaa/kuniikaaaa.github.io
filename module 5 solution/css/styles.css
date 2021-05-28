@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
+  background: url('https://www.google.com/search?q=images+jpg&tbm=isch&ved=2ahUKEwiIse2FmuzwAhWX1HMBHeqmCQkQ2-cCegQIABAA&oq=images+jp&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoHCAAQsQMQQzoFCAAQsQM6BggAEAgQHlD99wpYjJILYNqgC2gBcAB4AIABtweIAaAPkgELMi0xLjEuMS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=r8qwYMidGpepz7sP6s2mSA&bih=595&biw=1422&rlz=1C1SQJL_enIN909IN909#imgrc=yIgGvQEa-cY36M') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
